@@ -1,0 +1,55 @@
+  134  git clone git@github.com:Alenochka2003/GitHub.git 
+  135  git branch feature
+  136  cd /Github.git
+  137  cd GitHub.git
+  138  cd /Alenochka2003/GitHub
+  139  git init
+  140  cd /Alenochka2003/GitHub
+  141  cd /Alenochka/GitHub.git
+  142  cd /GitHub.git
+  143  cd GitHub.git
+  144  cd Alenochka2003/GitHub.git
+  145  git branch feature
+  146  cd
+  147  cd Alenochka2003/GitHub.git
+  148  cd GitHub.git
+  149  exit
+  150  cd Alenochka/GitHub.git
+  151  cd Alenichka2003
+  152  cd Alenochka2003
+  153  /GitHub.git
+  154  cd GitHub.git
+  155  cd /GitHub.git
+  156  git status
+  157  git branch -v
+  158  git@github.com:Alenochka2003/GitHub.git 
+  159  git clone git@github.com:Alenochka2003/GitHub.git 
+  160  cd Alenochka2003/GitHub.git
+  161   
+  162  cd
+  163  cd GitHub
+  164  git branch feature
+  165  git checkout feature
+  166  git add README.md .gitignore
+  167  git commit -m " Добавлены изменения к README.md and .gitignore"
+  168  git push origin feature
+  169  git commit --amend --no-edit
+  170  ls -al
+  171  git log
+  172  git status
+  173   git commit -m " Added changes to README.md and .gitignore"
+  174  git add
+  175  git status
+  176  git add.
+  177  git commit --amend --no-edit
+  178  git status
+  179  git commit --amend -m " Added word 'amend' save"
+  180  git commit origin feature
+  181  git push --force origin feature
+  182  git log
+  183  git checkout main 
+  184  git merge feature 
+  185  ls -al
+  186  history
+  187  history | tail -55
+  188  history | tail -55 >> history.txt
