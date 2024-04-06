@@ -1,5 +1,7 @@
 git clone git@github.com:Alenochka2003/GitHub.git 
-git init git branch feature
+git init
+cd GitHub
+git branch feature
 git checkout feature
 git add README.md .gitignore
 git commit -m " Добавлены изменения к README.md and .gitignore"
